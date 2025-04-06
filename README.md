@@ -15,9 +15,9 @@ A responsive and accessible product showcase web application built using React a
 1. **Clone the repository:**
 
    
-   git clone https://github.com/Aadhar999/SuperGroup-Web-App.git
-   cd SuperGroup-Web-App
-   npm install
-   npm run dev
+   ** git clone git@github.com:Aadhar999/SuperGroup-WebApp.git
+   ** cd SuperGroup-Web-App
+   ** npm install
+   ** npm run dev
 
 
